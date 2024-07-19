@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+#Demo
+
+Link: https://swiggycloneui.netlify.app/
+
+#Preview
+
+![image](https://github.com/user-attachments/assets/9fecaa09-fb62-483b-8a9d-38dba27995ac)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
